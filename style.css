@@ -1,0 +1,22 @@
+/* Full screen center */
+body {
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    /* Purple gradient background */
+    background: linear-gradient(135deg, #a100ff, #6a00ff, #4b0082);
+
+    font-family: Arial, sans-serif;
+}
+
+/* Text styling */
+h1 {
+    color: white;
+    font-size: 48px;
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: 1px;
+}
